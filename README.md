@@ -9,8 +9,7 @@ I've being in love with programming for around 12 years and the love just keep g
 <br>
 
 ### __Connect with me:__
-[<img align="left" alt="Alejandro LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/linkedin.svg" />][linkedin]
-[<img align="left"  width="22px" alt="Alejandro Instagram" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/instagram.svg" />][instagram]
+[<img align="left" alt="Alejandro LinkedIn" width="22px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />][linkedin]
 
 <br>
 <br>
