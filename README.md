@@ -1,7 +1,7 @@
 # __Hello 🌎!__  __I'm Alejandro Olaria__ - AKA __@aolaria__
 
 
-I'm a Software Engineer with over than 5 years of professional programming experience, I've been working as a Back-end developer using Python, Javascript & Go. Currently I'm a Machine Learning enthusiast & an amateur photograph.
+I'm a Software Engineer with over 5 years of professional programming experience, I've been working as a Back-end developer using Python, Javascript & Go. Currently I'm a Machine Learning enthusiast & an amateur photograph.
 
 I've being in love with programming for around 12 years and the love just keep growing :)
 
