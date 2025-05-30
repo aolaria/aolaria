@@ -1,7 +1,7 @@
 # __Hello 🌎!__  __I'm Alejandro Olaria__ - __@aolaria__
 
 
-I'm a Software Engineer with over 7 years of professional programming experience, I've been working as a Back-end Engineer using Python, Javascript & Go.
+I'm a Software Engineer with over 8 years of professional programming experience, I've been working as a Back-end Engineer using Python, Javascript & Go.
 
 <br>
 <br>
